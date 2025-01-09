@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Fahrschule2/Fahrschule2/Fahrschule2.csproj": {}
+    "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\Fahrschule2.csproj": {}
   },
   "projects": {
-    "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Fahrschule2/Fahrschule2/Fahrschule2.csproj": {
+    "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\Fahrschule2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Fahrschule2/Fahrschule2/Fahrschule2.csproj",
+        "projectUniqueName": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\Fahrschule2.csproj",
         "projectName": "Fahrschule2",
-        "projectPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Fahrschule2/Fahrschule2/Fahrschule2.csproj",
-        "packagesPath": "/Users/nilssteiner/.nuget/packages/",
-        "outputPath": "/Users/nilssteiner/Library/Mobile Documents/com~apple~CloudDocs/Bbzw/M320/Coding/Fahrschule2/Fahrschule2/obj/",
+        "projectPath": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\Fahrschule2.csproj",
+        "packagesPath": "C:\\Users\\golaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nilssteiner/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\golaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/nilssteiner/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\golaz\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

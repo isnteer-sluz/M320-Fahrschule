@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fahrschule2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d94aff6516abe11fcba49620802191ba43eea401")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fahrschule2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fahrschule2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
