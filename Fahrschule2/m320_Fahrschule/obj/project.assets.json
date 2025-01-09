@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\Fahrschule2.csproj",
-      "projectName": "Fahrschule2",
-      "projectPath": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\Fahrschule2.csproj",
+      "projectUniqueName": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\m320_Fahrschule\\m320_Fahrschule.csproj",
+      "projectName": "m320_Fahrschule",
+      "projectPath": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\m320_Fahrschule\\m320_Fahrschule.csproj",
       "packagesPath": "C:\\Users\\golaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\Fahrschule2\\obj\\",
+      "outputPath": "C:\\Users\\golaz\\RiderProjects\\M320-Fahrschule\\Fahrschule2\\m320_Fahrschule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\golaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -2,9 +2,9 @@ namespace Fahrschule2;
 
 public class Fahrschule
 {
-    public List<Fahrlehrer> FahrlehrerListe { get; set; }
-    public List<Schüler> SchülerListe { get; set; }
-    public List<Fahrzeug> FahrzeugListe { get; set; }
+    private List<Fahrlehrer> FahrlehrerListe { get; set; }
+    private List<Schüler> SchülerListe { get; set; }
+    private List<Fahrzeug> FahrzeugListe { get; set; }
 
     public Fahrschule()
     {

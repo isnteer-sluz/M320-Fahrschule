@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahrschule2", "Fahrschule2\Fahrschule2.csproj", "{9A511F34-F448-49AA-84CF-4C686A5DD38B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m320_Fahrschule", "m320_Fahrschule\m320_Fahrschule.csproj", "{9A511F34-F448-49AA-84CF-4C686A5DD38B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests_Fahrschule", "UnitTests_Fahrschule\UnitTests_Fahrschule.csproj", "{11D61258-F9AC-47C5-8693-76B192850A20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{9A511F34-F448-49AA-84CF-4C686A5DD38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A511F34-F448-49AA-84CF-4C686A5DD38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A511F34-F448-49AA-84CF-4C686A5DD38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D61258-F9AC-47C5-8693-76B192850A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D61258-F9AC-47C5-8693-76B192850A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D61258-F9AC-47C5-8693-76B192850A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D61258-F9AC-47C5-8693-76B192850A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
