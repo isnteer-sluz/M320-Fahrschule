@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahrschule2", "Fahrschule2\Fahrschule2.csproj", "{9A511F34-F448-49AA-84CF-4C686A5DD38B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{F96A2067-2B91-4A5B-B789-ACBA7523DCB9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
